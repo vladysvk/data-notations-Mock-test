@@ -1,0 +1,49 @@
+[
+  {
+    "Type": "Light Rail",
+    "Frequency": "Every 10-15 minutes",
+    "Main Lines": "1, 3, 6, 8",
+    "Ticket Validity": "20 minutes",
+    "Accessibility": "Wheelchair accessible"
+  },
+
+  {
+    "Type": "Public Bus",
+    "Frequency": "Every 15-30 minutes",
+    "Main Lines": "100, 112, 130",
+    "Ticket Validity": "30 minutes",
+    "Accessibility": "Wheelchair accessible"
+  },
+
+  {
+  "Service Type": "Night Buses",
+  "Main Lines": "Night lines 601, 603",
+  "Frequency": "Every 30-60 minutes",
+  "Ticket Price": "6.80 PLN",
+  "Operating Hours": "12:00 AM to 5:00 AM"
+  },
+
+  {
+    "Types": "Single, Monthly, Family",
+    "Single Ticket Price": "4.60 PLN",
+    "Monthly Pass Price": "100 PLN",
+    "Mobile Tickets": "Available via apps",
+    "Validity": "Dependent on type purchased"
+  },
+
+  {
+    "App Names": "mPay, Jakdojade, SkyCash",
+    "Functions": "Ticket purchase, route planning",
+    "Availability": "iOS and Android",
+    "Language Support": "Polish, English",
+    "User Ratings": "4.5/5 average"
+  },
+
+  {
+    "Smoking Policy": "No smoking on vehicles",
+    "Pet Policy": "Pets allowed with muzzles",
+    "Bicycles": "Allowed on trams and buses",
+    "Lost & Found": "Available at MPK offices",
+    "Safety Features": "CCTV in vehicles"
+  }
+]
