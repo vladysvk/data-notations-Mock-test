@@ -31,7 +31,6 @@ Krakow's public transport system is efficient and accessible, comprising trams a
 
 # Images
 
-
 ![Public Transport in Krakow](https://lp-cms-production.imgix.net/2022-06/Poland-Krakow-Longfin-Media-shutterstock-1771939031-RFE.jpg?w=1440&h=810&fit=crop&auto=format&q=75)
 
 ![Public Transport in Krakow](IMG_Folder/Public%20Transport%20in%20Krakow.jpg.avif)
