@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PublicTransport>
+    <Transport>
+        <Type color="blue" fuelType="Electricity">Tram</Type>
+        <Name routeType="urban" timeOfDay="daytime">Line 1</Name>
+        <Frequency peakHours="yes" offPeak="10 min">10 min</Frequency>
+        <Price currency="PLN" ticketType="single">3.60 PLN</Price>
+    </Transport>
+    <Transport>
+        <Type color="blue" fuelType="Gasoline">Bus</Type>
+        <Name routeType="urban" timeOfDay="daytime">Line 152</Name>
+        <Frequency peakHours="yes" offPeak="15 min">15 min</Frequency>
+        <Price currency="PLN" ticketType="single">3.60 PLN</Price>
+    </Transport>
+    <Transport>
+        <Type color="red" fuelType="Electricity">Train</Type>
+        <Name routeType="regional" timeOfDay="all-day">Regional</Name>
+        <Frequency peakHours="yes" offPeak="30 min">30 min</Frequency>
+        <Price currency="PLN" ticketType="regional">8.00 PLN</Price>
+    </Transport>
+    <Transport>
+        <Type color="black" fuelType="Diesel">Night Bus</Type>
+        <Name routeType="urban" timeOfDay="night">Line 608</Name>
+        <Frequency peakHours="no" offPeak="30 min">30 min</Frequency>
+        <Price currency="PLN" ticketType="night">3.60 PLN</Price>
+    </Transport>
+    <Transport>
+        <Type color="green" fuelType="Electricity">Tram</Type>
+        <Name routeType="urban" timeOfDay="daytime">Line 22</Name>
+        <Frequency peakHours="yes" offPeak="12 min">12 min</Frequency>
+        <Price currency="PLN" ticketType="single">3.60 PLN</Price>
+    </Transport>
+    <Transport>
+        <Type color="yellow" fuelType="Gasoline">Bus</Type>
+        <Name routeType="urban" timeOfDay="daytime">Line 179</Name>
+        <Frequency peakHours="no" offPeak="20 min">20 min</Frequency>
+        <Price currency="PLN" ticketType="single">3.60 PLN</Price>
+    </Transport>
+</PublicTransport>

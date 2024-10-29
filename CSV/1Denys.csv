@@ -1,0 +1,7 @@
+Type, Number, Route, Price
+Tram,Line 1,10 min,3.60 PLN
+Bus,Line 152,15 min,3.60 PLN
+Train,Regional,30 min,8.00 PLN
+Night Bus,Line 608,30 min,4 PLN
+Tram,Line 22,12 min,4 PLN
+Bus,Line 179,20 min,4 PLN

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PublicTransport>
+    <Transport>
+        <Type>Tram</Type>
+        <Name>Line 1</Name>
+        <Frequency>10 min</Frequency>
+        <Price>3.60 PLN</Price>
+    </Transport>
+    <Transport>
+        <Type>Bus</Type>
+        <Name>Line 152</Name>
+        <Frequency>15 min</Frequency>
+        <Price>3.60 PLN</Price>
+    </Transport>
+    <Transport>
+        <Type>Train</Type>
+        <Name>Regional</Name>
+        <Frequency>30 min</Frequency>
+        <Price>8.00 PLN</Price>
+    </Transport>
+    <Transport>
+        <Type>Night Bus</Type>
+        <Name>Line 608</Name>
+        <Frequency>30 min</Frequency>
+        <Price>3.60 PLN</Price>
+    </Transport>
+    <Transport>
+        <Type>Tram</Type>
+        <Name>Line 22</Name>
+        <Frequency>12 min</Frequency>
+        <Price>3.60 PLN</Price>
+    </Transport>
+    <Transport>
+        <Type>Bus</Type>
+        <Name>Line 179</Name>
+        <Frequency>20 min</Frequency>
+        <Price>3.60 PLN</Price>
+    </Transport>
+
+</PublicTransport>

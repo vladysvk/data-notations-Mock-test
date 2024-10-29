@@ -1,0 +1,16 @@
+{
+    "TypeOfTransport" : "Bus",
+    "BusLine": 178,
+    "FuelType": ["Gasoline", "Electricity"],
+    "IsFunctioning": true,
+    "TicketPrices": 
+    {
+        "20minute": 4.00,
+        "60minute": 6.00,
+        "20minuteForStudents": 2.00,
+        "60minuteForStudents": 3.00
+    },
+    "NumberOfSits": 40,
+    "Frequency": "15 minutes",
+    "AirConditioning": true
+}
