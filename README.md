@@ -25,7 +25,7 @@ Krakow's public transport system is efficient and accessible, comprising trams a
 |-------------------|-----------------|------------------------|----------------------|--------------------|
 | Tram              | Every 10-15 min | 4.60 PLN               | MPK Kraków           | Wheelchair accessible|
 | Bus               | Every 15-30 min | 4.60 PLN               | MPK Kraków           | Wheelchair accessible|
-| Night Bus         | Every 30-60 min | 6.80 PLN               | MPK Kraków           | Wheelchair accessible|
+| Night Bus         | Every 30-60 min | 6.80 PLN               | MPK Kraków           | Wheelchair accessible|      
 | Mobile App        | -               | -                      | mPay, Jakdojade, SkyCash | -              |
 | Monthly Pass      | -               | 100 PLN                | MPK Kraków           | -                  |
 
